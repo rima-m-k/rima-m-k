@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Rima 
+✨ Self taught MERN stack developer
+
 
 <!--
 **rima-m-k/rima-m-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
