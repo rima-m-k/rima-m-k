@@ -1,5 +1,5 @@
 ### Hi I'm Rima 
-✨ Self taught MERN stack developer
+✨ Used to be MERN stack developer
 
 
 <!--
